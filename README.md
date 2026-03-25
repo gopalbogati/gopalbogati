@@ -63,7 +63,7 @@ I build high-performance web applications, e-commerce platforms, and developer t
 ## 📫 Get in Touch
 
 - 📍 Sydney, Australia
-- 💼 [LinkedIn](https://www.linkedin.com/in/gopalbogati)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gopal%20Bogati-0077B5?style=flat&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/gopal-bogati-4164b7b8)
 - 🌐 [Portfolio](https://gopalbogati.github.io)
 - 📧 Open to freelance, collaboration & full-time opportunities
 
