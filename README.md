@@ -56,6 +56,8 @@ I build high-performance web applications, e-commerce platforms, and developer t
 
 ![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalbogati&show_icons=true&theme=default&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalbogati&layout=compact&hide_border=true)
+
 ---
 
 ## 📫 Get in Touch
