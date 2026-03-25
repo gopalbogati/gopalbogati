@@ -29,16 +29,16 @@ I build high-performance web applications, e-commerce platforms, and developer t
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Route Optimizer Sydney](https://github.com/gopalbogati/Route-Optimizer-Sydney) | Smart route optimization tool for Sydney deliveries | TypeScript |
-| [Route Optimizer App](https://github.com/gopalbogati/route-optimizer-app) | Web app for optimizing multi-stop delivery routes | JavaScript |
-| [OpenWeather Laravel](https://github.com/gopalbogati/openweathermaplaravel) | Weather API integration using Laravel PHP Framework | PHP / Laravel |
-| [Laravel Store System](https://github.com/gopalbogati/laravel-storesystem) | CRUD store management system with Laravel 5.3 | PHP / Laravel |
-| [Voting System Laravel](https://github.com/gopalbogati/Voting-System-Laravel) | Online voting system with Laravel & Tailwind CSS | PHP |
-| [Newspaper Symfony](https://github.com/gopalbogati/NewsPaper-Using-Symfony) | News portal built with Symfony PHP framework | PHP / JS |
-| [Cryptox Creator](https://github.com/gopalbogati/cryptox-creator) | Crypto-related creator tool | JavaScript |
-| [Laravel Todo REST API](https://github.com/gopalbogati/LaravelRestfulApiTodo) | Beginner-friendly RESTful API CRUD example | PHP / Laravel |
+| Project | Description | Tech | Live Demo |
+|---|---|---|---|
+| [Route Optimizer Sydney](https://github.com/gopalbogati/Route-Optimizer-Sydney) | Smart route optimization for Sydney deliveries | TypeScript | [🔗 Live](https://route-optimizer-sydney.vercel.app) |
+| [Route Optimizer App](https://github.com/gopalbogati/route-optimizer-app) | Web app for optimizing multi-stop delivery routes | JavaScript | [🔗 Live](https://route-optimizer-app.vercel.app) |
+| [CryptoX Creator](https://github.com/gopalbogati/cryptox-creator) | AI-powered crypto content generator for Twitter/X | JavaScript | [🔗 Live](https://cryptox-creator.vercel.app) |
+| [OpenWeather Laravel](https://github.com/gopalbogati/openweathermaplaravel) | Weather API integration using Laravel PHP Framework | PHP / Laravel | - |
+| [Laravel Store System](https://github.com/gopalbogati/laravel-storesystem) | CRUD store management system with Laravel 5.3 | PHP / Laravel | - |
+| [Voting System Laravel](https://github.com/gopalbogati/Voting-System-Laravel) | Online voting system with Laravel & Tailwind CSS | PHP | - |
+| [Newspaper Symfony](https://github.com/gopalbogati/NewsPaper-Using-Symfony) | News portal built with Symfony PHP framework | PHP / JS | - |
+| [Laravel Todo REST API](https://github.com/gopalbogati/LaravelRestfulApiTodo) | Beginner-friendly RESTful API CRUD example | PHP / Laravel | - |
 
 ---
 
